@@ -3,3 +3,6 @@
 2025-08-07 13:15:18,109 - WARNING - No content found for https://www.constructionworld.in/latest-construction-news/real-estate-news
 2025-08-07 13:15:24,222 - ERROR - Error scraping https://realty.economictimes.indiatimes.com/rss/recentstories: Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
 2025-08-07 13:43:35,761 - ERROR - Error extracting city/locality: invalid syntax (<string>, line 1)
+2025-08-07 13:43:59,361 - ERROR - Error extracting city/locality: invalid syntax (<string>, line 1)
+2025-08-07 13:44:05,425 - ERROR - Error extracting city/locality: invalid syntax (<string>, line 1)
+2025-08-07 13:44:40,894 - ERROR - Error extracting city/locality: invalid syntax (<string>, line 2)

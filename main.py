@@ -242,7 +242,7 @@ def fetch_news():
                 
                 valid_urls = 0
                 for news_url in unique_urls:
-                    if valid_urls >= 22:
+                    if valid_urls >= 7:
                         break
                     text = fetch_and_extract_text_constructionworld(news_url)
                     if text:
@@ -281,7 +281,7 @@ def fetch_news():
             
             valid_urls = 0
             for news_url in news_urls:
-                if valid_urls >= 10:
+                if valid_urls >= 7:
                     break
                 text = fetch_and_extract_text_economic_times(news_url)
                 if text:
