@@ -13,6 +13,7 @@ env/
 *.env
 *.env.*
 sqy-prod.json
+.csv
 
 # Streamlit temp files
 .streamlit/config.toml
