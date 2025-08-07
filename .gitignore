@@ -1,0 +1,29 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Environment variable and secret files
+*.env
+*.env.*
+sqy-prod.json
+
+# Streamlit temp files
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# VSCode config (optional)
+.vscode/
